@@ -19,7 +19,11 @@ Highlights:
 
 Automating Sqoop Import Jobs
 Password Management store using jceks (Hadoop Credential Provider)
+
 Hive's SerDe usage
+
 Hive Partitioning and Bucketing Techniques
+
 Spark's DataFrame API's
+
 Spark-SQL queries
